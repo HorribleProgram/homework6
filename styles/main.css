@@ -35,3 +35,6 @@ body, html {
   height: 50%;
 }
 
+.list-group-item {
+  min-height: 42px;
+}
